@@ -2,13 +2,13 @@
 All the scripts are used to build a database for epigenetic group at the University of Exeter.
 
 Step 1:
-Prepare the resource csv files.
+Prepare the resource csv files. Have a look at the slides.
 1. pheno file: column one must be the sample name; 'IndividualID'; 'Sample_ID'; 'PCW'; 'Sex';
 2. epic file: 'ProbeID', 'Name', 'CHR', 'CpG Island', 'Gene', 'Group';
 3. betas file
 
 Step 2:
-git clone 
+git clone https://github.com/SiyiSEA/db_web_app.git
 
 Step 3:
 Put all the resource files into the current dir
